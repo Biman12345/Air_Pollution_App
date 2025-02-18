@@ -10,7 +10,7 @@ import pandas as pd
 import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
-import folium
+#import folium
 from folium.plugins import HeatMap
 from streamlit_folium import folium_static
 
